@@ -3,3 +3,40 @@ AplicacaoXamarimForms/AplicacaoXamarimForms/AplicacaoXamarimForms.Android/obj/Re
 AplicacaoXamarimForms/AplicacaoXamarimForms/AplicacaoXamarimForms.Android/obj/Debug
 AplicacaoXamarimForms/AplicacaoXamarimForms/AplicacaoXamarimForms.Android/obj/Release1
 AplicacaoXamarimForms/AplicacaoXamarimForms/AplicacaoXamarimForms.Android/obj/Debug1
+
+
+# Ignorar arquivos gerados automaticamente
+obj/
+bin/
+
+# Ignorar arquivos de cache do ReSharper
+_ReSharper*/
+
+# Ignorar o arquivo de solução do Visual Studio
+*.sln
+
+# Ignorar arquivos de backup do Visual Studio
+*.bak
+*.user
+
+# Ignorar pastas geradas pelo Visual Studio
+[Tt]emp/
+.vs/
+
+# Ignorar arquivos do Visual Studio
+*.vshost.exe
+*.psess
+*.psessproj
+
+# Ignorar arquivos de nuget
+packages/
+*.nupkg
+*.paket.references
+paket.lock
+
+# Ignorar arquivos de build do MSBuild
+[Bb]uild/
+
+# Ignorar logs de ferramentas de build
+msbuild.log
+
