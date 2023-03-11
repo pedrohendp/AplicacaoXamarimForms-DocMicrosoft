@@ -1,10 +1,5 @@
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\AplicacaoXamarimForms.Android.dll
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\AplicacaoXamarimForms.Android.pdb
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\com.companyname.aplicacaoxamarimforms.apk
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\com.companyname.aplicacaoxamarimforms.aab
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\com.companyname.aplicacaoxamarimforms-Signed.aab
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\com.companyname.aplicacaoxamarimforms-Signed.apk
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\com.companyname.aplicacaoxamarimforms-Signed.apk.idsig
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\AplicacaoXamarimForms.dll
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\AplicacaoXamarimForms.pdb
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
@@ -44,10 +39,7 @@ C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarim
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\AplicacaoXamarimForms.Android.csproj.CopyComplete
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\AplicacaoXamarimForms.Android.dll
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\AplicacaoXamarimForms.Android.pdb
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\com.companyname.aplicacaoxamarimforms.apk
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\base.zip
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\com.companyname.aplicacaoxamarimforms.aab
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\com.companyname.aplicacaoxamarimforms.apks
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\res\values\styles.xml
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\res\values\colors.xml
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
@@ -616,7 +608,6 @@ C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarim
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\src\mono\MonoPackageManager_Resources.java
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\src\xamarin\essentials\fileProvider.java
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\packaged_resources
-C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\src\com\companyname\aplicacaoxamarimforms\R.java
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\compressed_assemblies.arm64-v8a.ll
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\compressed_assemblies.armeabi-v7a.ll
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\compressed_assemblies.x86.ll
@@ -654,3 +645,12 @@ C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarim
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\br.com.pedrohendp.tradutortelefonecelular.apk
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\br.com.pedrohendp.tradutortelefonecelular.aab
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\br.com.pedrohendp.tradutortelefonecelular-Signed.aab
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\br.com.pedrohendp.tradutortelefonecelular-Signed.apk
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\bin\Debug\br.com.pedrohendp.tradutortelefonecelular-Signed.apk.idsig
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\br.com.pedrohendp.tradutortelefonecelular.apk
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\br.com.pedrohendp.tradutortelefonecelular.aab
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\bin\br.com.pedrohendp.tradutortelefonecelular.apks
+C:\dev\AplicacaoXamarimForms-DocMicrosoft\AplicacaoXamarimForms\AplicacaoXamarimForms\AplicacaoXamarimForms.Android\obj\Debug\130\android\src\br\com\pedrohendp\tradutortelefonecelular\R.java
